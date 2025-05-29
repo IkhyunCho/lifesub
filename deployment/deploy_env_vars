@@ -1,6 +1,6 @@
 # Team Settings
 teamid=dg0417
-root_project=lifesub
+root_project=lifesub-sample
 namespace=dg0417-lifesub-ns
 
 # Container Registry Settings
